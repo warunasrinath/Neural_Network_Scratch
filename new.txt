@@ -1,0 +1,1 @@
+perceptron:- this is best for feedforward neural network.
